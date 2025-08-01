@@ -1,0 +1,10 @@
+name: volcanoplot
+title:
+username: yxjing
+account: yxjing
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15062726
+bundleId: 10599864
+url: https://yxjing.shinyapps.io/volcanoplot/
+version: 1
