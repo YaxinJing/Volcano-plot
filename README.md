@@ -7,7 +7,7 @@ The upload CSV file must contain three columns: Protein/Gene/Phosphosite, log2FC
 
 Example
 
-Protein/Gene/Phosphosite,log2FC,p-value
+Gene,log2FC,p-value
 
 TP53,1.45,0.001
 
